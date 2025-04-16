@@ -18,9 +18,7 @@ body {
   border-radius: 10px;
   padding: 20px;
   width: 300px;
-  position: absolute;
   top: 20%;
-  left: 40%;
 }
 
 .container h1 {
